@@ -1,5 +1,13 @@
 # PLAT-ENG-CHALLENGE
 
+## Instructions
+
+```bash
+git clone https://github.com/aianus/PLAT-ENG-CHALLENGE.git paytm_platform_challenge
+cd paytm_platform_challenge
+sbt test
+```
+
 ## Notes
 
 I only got through part one before the recruiter emailed me again and told me to do the [WebLogs Challenge](https://github.com/aianus/WeblogChallenge) instead.
